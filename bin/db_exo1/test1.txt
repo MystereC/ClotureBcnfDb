@@ -1,0 +1,9 @@
+!fd:A->F
+!fd:AB->C
+!fd:C->B
+!attributes:AB
+!compute
+!clear:attributes
+!attributes:C
+!compute
+!quit
